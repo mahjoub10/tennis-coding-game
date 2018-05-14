@@ -1,0 +1,6 @@
+# mvn folders
+target/**
+
+#IDE files
+*.iml
+*.idea
